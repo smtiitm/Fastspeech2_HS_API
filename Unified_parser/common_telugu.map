@@ -1,0 +1,128 @@
+0	mq	q	q	q	q	ऀ	mq	mq	mq	mq	M	
+1	mq	q	q	q	q	ँ	ঁ	ઁ	ଁ	ਁ 
+2	q	ം	ஂ	ం	ಂ	ं	ং	ં	ଂ	ਂ
+3	hq	ഃ	ஃ	ః	ಃ	ः	ঃ	ઃ	ଃ	ਃ	H
+4	a	a	a	a	a	ऄ	a	a	a	a
+5	a	അ	அ	అ	ಅ	अ	অ	અ	ଅ	ਅ
+6	aa	ആ	ஆ	ఆ	ಆ	आ	আ	આ	ଆ	ਆ	A
+7	i	ഇ	இ	ఇ	ಇ	इ	ই	ઇ	ଇ	ਇ
+8	ii	ഈ	ஈ	ఈ	ಈ	ई	ঈ	ઈ	ଈ	ਈ	I
+9	u	ഉ	உ	ఉ	ಉ	उ	উ	ઉ	ଉ	ਉ
+10	uu	ഊ	ஊ	ఊ	ಊ	ऊ	ঊ	ઊ	ଊ	ਊ	U
+11	rq	ഋ	rx	ఋ	ಋ	ऋ	ঋ	ઋ	ଋ	r	R
+12	uu	uu	uu	uu	uu	ऌ	ঌ	ઌ	ଌ	uu
+13	ae	e	e	e	e	ऍ	ee	ઍ	ee	ee	ऍ
+14	e	എ	எ	ఎ	ಎ	ऎ	ee	ee	ee	ee	
+15	ee	ഏ	ஏ	ఏ	ಏ	ए	এ	એ	ଏ	ਏ	E
+16	ei	ഐ	ஐ	ee	ಐ	ऐ	ঐ	ઐ	ଐ	ਐ	ऐ
+17	ax	a	a	a	a	ऑ	a	ઑ	a	a	ऑ
+18	o	ഒ	ஒ	ఒ	ಒ	ऒ	oo	oo	oo	oo
+19	oo	ഓ	ஓ	ఓ	ಓ	ओ	ও	ઓ	ଓ	ਓ	O
+20	ou	ഔ	ஔ	ఔ	ಔ	औ	ঔ	ઔ	ଔ	ਔ	औ
+21	k	ക	க	క	ಕ	क	ক	ક	କ	ਕ
+22	kh	ഖ	k	ఖ	ಖ	ख	খ	ખ	ଖ	ਖ	ख
+23	g	ഗ	k	గ	ಗ	ग	গ	ગ	ଗ	ਗ
+24	gh	ഘ	k	ఘ	ಘ	घ	ঘ	ઘ	ଘ	ਘ	घ
+25	ng	ങ	ங	ఙ	ಙ	ङ	ঙ	ઙ	ଙ	ਙ	ङ
+26	c	ച	ச	చ	ಚ	च	চ	ચ	ଚ	ਚ
+27	ch	ഛ	c	ఛ	ಛ	छ	ছ	છ	ଛ	ਛ	C
+28	j	ജ	ஜ	జ	ಜ	ज	জ	જ	ଜ	ਜ
+29	jh	ഝ	j	ఝ	ಝ	झ	ঝ	ઝ	ଝ	ਝ	J
+30	nj	ഞ	ஞ	ఞ	ಞ	ञ	ঞ	ઞ	ଞ	ਞ	ञ
+31	tx	ട	ட	ట	ಟ	ट	ট	ટ	ଟ	ਟ	ट
+32	txh	ഠ	tx	ఠ	ಠ	ठ	ঠ	ઠ	ଠ	ਠ	ठ
+33	dx	ഡ	tx	డ	ಡ	ड	ড	ડ	ଡ	ਡ	ड
+34	dxh	ഢ	tx	ఢ	ಢ	ढ	ঢ	ઢ	ଢ	ਢ	ढ
+35	nx	ണ	ண	ణ	ಣ	ण	ণ	ણ	ଣ	ਣ	ण
+36	t	ത	த	త	ತ	त	ত	ત	ତ	ਤ
+37	th	ഥ	t	థ	ಥ	थ	থ	થ	ଥ	ਥ	थ
+38	d	ദ	t	ద	ದ	द	দ	દ	ଦ	ਦ
+39	dh	ധ	t	ధ	ಧ	ध	ধ	ધ	ଧ	ਧ	ध
+40	n	ന	ந	న	ನ	न	ন	ન	ନ	ਨ
+41	nd	ഩ	ன	n	n	ऩ	n	n	n	n	न
+42	p	പ	ப	ప	ಪ	प	প	પ	ପ	ਪ
+43	ph	ഫ	p	ఫ	ಫ	फ	ফ	ફ	ଫ	ਫ	P
+44	b	ബ	p	బ	ಬ	ब	ব	બ	ବ	ਬ
+45	bh	ഭ	p	భ	ಭ	भ	ভ	ભ	ଭ	ਭ	B
+46	m	മ	ம	మ	ಮ	म	ম	મ	ମ	ਮ
+47	y	യ	ய	య	ಯ	य	য	ય	ୟ	ਯ
+48	r	ര	ர	ర	ರ	र	র	ર	ର	ਰ
+49	rx	റ	ற	r	r	ऱ	r	r	r	r	र	
+50	l	ല	ல	ల	ಲ	ल	ল	લ	ଲ	ਲ
+51	lx	ള	ள	ళ	ಳ	ळ	l	ળ	ଳ	ਲ਼	ള
+52	zh	ഴ	ழ	lx	lx	ऴ	lx	lx	lx	lx	Z
+53	w	വ	வ	వ	ವ	व	b	વ	ଵ	ਵ
+54	sh	ശ	ஶ	శ	ಶ	श	শ	શ	ଶ	ਸ਼	श
+55	sx	ഷ	ஷ	ష	ಷ	ष	ষ	ષ	ଷ	#	ष
+56	s	സ	ஸ	స	ಸ	स	স	સ	ସ	ਸ
+57	h	ഹ	ஹ	హ	ಹ	ह	হ	હ	ହ	ਹ
+58	a	a	a	a	a	ऺ	a	a	a	a
+59	aav	aav	aav	aav	aav	ऻ	aav	aav	aav	aav
+60	nk	a	a	a	a	़	়	઼	଼	਼	Y
+61	ag	a	a	a	a	ऽ	ঽ	ઽ	ଽ	#	ऽ
+62	aav	ാ	ா	ా	ಾ	ा	া	ા	ା	ਾ
+63	iv	ി	ி	ి	ಿ	ि	ি	િ	ି	ਿ
+64	iiv	ീ	ீ	ీ	ೀ	ी	ী	ી	ୀ	ੀ
+65	uv	ു	ு	ు	ು	ु	ু	ુ	ୁ	ੁ
+66	uuv	ൂ	ூ	ూ	ೂ	ू	ূ	ૂ	ୂ	ੂ
+67	rqv	ൃ	uv	ృ	ೃ	ृ	ৃ	ૃ	ୃ	uv
+68	rqwv	ൄ	uuv	ౄ	ೄ	ॄ	ৄ	ૄ	rqv	uuv	ॠ
+69	aev	ev	ev	ev	ev	ॅ	eev	eev	eev	eev
+70	ev	െ	ெ	ె	ೆೆ	ॆ	eev	eev	ୄ	eev
+71	eev	േ	ே	ే	ೇ	े	ে	ે	େ	ੇ
+72	eiv	ൈ	ை	eev	ೇೈ	ै	ৈ	ૈ	ୈ	ੈ	ऐ
+73	axv	aav	aav	aav	aav	ॉ	aav	ૉ	aav	aav	ऑ
+74	ov	ൊ	ொ	ొ	ೊ	ॊ	oov	oov	oov	oov
+75	oov	ോ	ோ	ో	ೋ	ो	ো	ો	ୋ	ੋ	O
+76	ouv	ൌ	ௌ	ౌ	ೌ	ौ	ৌ	ૌ	ୌ	ੌ	औ
+77	eu	്	்	్	್	्	্	્	୍	੍	உ
+78	tv	a	a	a	a	ॎ	ৎ	a	a	a	
+79	$	ouv	ouv	ouv	ouv	ॏ	ouv	ouv	ouv	ouv
+80	$	#	#	#	#	ॐ	#	ૐ	#	ੴ
+81	$	a	a	a	a	॓	a	a	a	a
+82	$	a	a	a	a	॔	a	a	a	a
+83	$	#	#	#	#	#	#	#	#	#
+84	$	#	#	#	#	#	#	#	#	#
+85	aav	a	a	a	a	ॕ	a	a	a	a
+86	aav	a	a	a	a	ॖ	a	a	ୖ	a
+87	auv	ൗ	a	a	a	ॗ	ৗ	a	ୗ	a	औ
+88	kq	k	k	k	k	क़	k	k	k	k	क
+89	khq	kh	kh	kh	kh	ख़	kh	kh	kh	ਖ਼	K
+90	gq	g	g	g	g	ग़	g	g	g	ਗ਼	G
+91	z	j	j	j	j	ज़	j	j	j	ਜ਼
+92	dxq	dx	dx	dx	dx	ड़	ড়	dx	ଡ଼	ੜ	D
+93	dxhq	dxh	dxh	dxh	dxh	ढ़	ঢ়	dxh	ଢ଼	dxh	T
+94	f	f	f	f	f	फ़	f	f	f	ਫ਼
+95	y	y	y	y	y	य़	য়	y	ୟ	y
+96	rqw	ൠ	ற	ౠ	ೠ	ॠ	ৠ	ૠ	ୠ	r	ॠ
+97	$	#	#	#	#	ॡ	ৡ	ૡ	ୡ	#
+98	$	#	#	#	#	ॢ	ৢ	ૢ	#	#
+99	$	#	#	#	#	ॣ	ৣ	ૣ	ୢ	#
+100	$	#	#	#	#	।	#	#	#	#
+101	$	#	#	#	#	॥	#	#	ୣ	#
+102	0	൦	௦	౦	೦	०	০	૦	୦	੦
+103	1	൧	௧	౧	೧	१	১	૧	୧	੧
+104	2	൨	௨	౨	೨	२	২	૨	୨	੨
+105	3	൩	௩	౩	೩	३	৩	૩	୩	੩	
+106	4	൪	௪	౪	೪	४	৪	૪	୪	੪
+107	5	൫	௫	౫	೫	५	৫	૫	୫	੫
+108	6	൬	௬	౬	೬	६	৬	૬	୬	੬
+109	7	൭	௭	౭	೭	७	৭	૭	୭	੭
+110	8	൮	௮	౮	೮	८	৮	૮	୮	੮
+111	9	൯	௯	౯	೯	९	৯	૯	୯	੯
+112	rv	r	r	r	r	॰	ৰ	૰	୰	r
+113	wv	w	w	w	w	ॱ	ৱ	૱	ୱ	w	W
+114	$	a	a	a	a	ॲ	৲	a	୲	a
+115	$	a	a	a	a	ॳ	৳	a	୳	a
+116	$	aa	aa	aa	aa	ॴ	৴	aa	୴	aa
+117	$	ou	ou	ou	ou	ॵ	৵	ou	୵	ou
+118	$	a	a	a	a	ॶ	৶	a	୶	a
+119	$	a	a	a	a	ॷ	৷	a	୷	a
+120	$	dx	dx	dx	dx	ॸ	৸	dx	dx	dx
+121	$	j	j	j	j	ॹ	৹	z	z	z
+122	nwv	ൺ	nx	nx	nx	ॺ	৺	y	y	y	ൺ
+123	nnv	ൻ	n	n	n	ॻ	৻	g	g	g	N
+124	rwv	ർ	rx	rx	rx	ॼ	j	j	j	j	ർ
+125	lwv	ൽ	l	l	l	ॽ	sp	sp	sp	sp	ൽ
+126	lnv	ൾ	l	l	l	ॾ	dx	dx	dx	dx	ൾ
+127	$	b	b	b	b	ॿ	b	b	b	b
