@@ -61,7 +61,13 @@ class TextReplacer:
             # print('KEY AND VALUE OF PARSED OUTPUT',key, value)
             text = text.replace(key, value)
             text = text.replace(" ", "")
-            
         
         return text
+
+    def apply_replacements_by_phonems(self, text):
+        ans=self.replacements[text]
+        # for key, value in self.replacements.items():
+        #     # print('KEY AND VALUE OF PARSED OUTPUT',key, value)
+        #     text = text.replace(key, value)
+        return ans
 
