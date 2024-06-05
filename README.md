@@ -1,4 +1,4 @@
-# Fastspeech2 Model using Hybrid Segmentation (HS)
+# Fastspeech2 Model API using Hybrid Segmentation (HS)
 
 This repository contains a Fastspeech2 Model for 16 Indian languages (male and female both) implemented using the Hybrid Segmentation (HS) for speech synthesis. The model is capable of generating mel-spectrograms from text inputs and can be used to synthesize speech.
 
